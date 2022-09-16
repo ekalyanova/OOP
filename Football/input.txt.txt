@@ -1,0 +1,4 @@
+player ivan team1
+player miha team2
+team team1 ivan vlad
+team team2
